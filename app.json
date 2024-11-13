@@ -1,0 +1,32 @@
+{
+    "expo": {
+        "name": "app",
+        "slug": "snack-f3761b1a-e354-48e4-b01d-00542a061cf1",
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/icon.png",
+        "userInterfaceStyle": "light",
+        "splash": {
+            "image": "./assets/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "ios": {
+            "supportsTablet": true
+        },
+        "android": {
+            "adaptiveIcon": {
+                "foregroundImage": "./assets/adaptive-icon.png",
+                "backgroundColor": "#ffffff"
+            }
+        },
+        "web": {
+            "favicon": "./assets/favicon.png"
+        },
+        "platforms": [
+            "ios",
+            "android",
+            "web"
+        ]
+    }
+}
